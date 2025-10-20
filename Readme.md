@@ -14,4 +14,6 @@ Class Quadtree creates the whole grid where the cells and objects shall be place
 
 Finally we run loops to iterate over each mass and find the net forces, then update the position and velocity through the Euler-Cromer method and simulate the evolution using Matplotlib.
 
+Co-authored by: Zalan Khan zalankhan657@gmail.com 
+
 
